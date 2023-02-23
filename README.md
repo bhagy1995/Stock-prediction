@@ -1,4 +1,4 @@
-# Stock-prediction
+# MSFT, GOOGL AND IBM Stock-prediction
 
 The scope of this project is to predict multi asset returns in the stock market. The objective of the 
 project was to explore many different machine and deep learning models to determine which 
